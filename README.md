@@ -8,6 +8,6 @@ Each question is wrapped in it's own div. There are 4 options to every question,
 
 At the end of the 10 questions there are 2 functional buttons:
 
-### Submit: When user clicks on this button, all the selected options are recorded and checked. After checking, the final score (out of 10) is displayed below
+#### Submit: When user clicks on this button, all the selected options are recorded and checked. After checking, the final score (out of 10) is displayed below
 
-### Clear: This button is used to restart the game. It clears all the selected options and also removes the previous score.
+#### Clear: This button is used to restart the game. It clears all the selected options and also removes the previous score.
