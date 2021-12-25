@@ -1,2 +1,4 @@
-# trivia
-A trivia game for my CS50 final project
+# TRIVIA
+#### Video Demo:  https://youtu.be/1eaPjWVXR7M
+#### Description:
+TODO
